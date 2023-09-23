@@ -1,0 +1,34 @@
+.text-primary-color{
+    color: #145C44;
+}
+.nav-item:hover{
+    background-color: antiquewhite;
+}
+.h1-fs{
+    font-size: 10vw;
+}
+.my-primary{
+    background-color: #145C44;
+    color: white;
+}
+.my-primary:hover{
+    background-color: rgb(13, 78, 56);
+    color: white;
+}
+.my-border-primary{
+    border: 1px solid #145C44;
+}
+.my-bg{
+    /* background-image: url('/assets/dean-brierley-2987j1bsfxo-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; */
+    background-color: #145C44;
+}
+.poi{
+    color: #145C44;
+}
+.active{
+    text-decoration: underline;
+    text-decoration-color: #145C44;
+    text-decoration-thickness: 5px;
+}
