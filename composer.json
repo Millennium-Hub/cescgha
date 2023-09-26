@@ -1,0 +1,11 @@
+{
+    "name": "user/cescgha",
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "User\\Cescgha\\": "src/"
+        }
+    }
+}
